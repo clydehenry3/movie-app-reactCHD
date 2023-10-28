@@ -5,7 +5,7 @@
 <br>
 <img src="uiAssets/filmFlexLogin.png" alt="New UI Login" width="197" height="426">
 <br>
-Login Screen (updated: Oct. 28th)
+Login Screen (updated: October 28th)
 
 
 
